@@ -39,7 +39,7 @@ const LandingScreen = ({
 					<TextInput
 						style={styles.textInput}
 						value={country}
-						placeholder={"Enter country"}
+						placeholder={"Enter Capital"}
 						onChangeText={(text) => setValue("country", text)}
 					/>
 
