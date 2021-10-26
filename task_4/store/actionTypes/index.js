@@ -1,0 +1,5 @@
+export const SET_ASTEROID_ID = "SET_ASTEROID_ID";
+export const SET_RANDOM_ID = "SET_RANDOM_ID";
+export const SERACH_ASTEROID_ID = "SEARCH_ASTEROID_ID";
+export const SET_LOADING = "SET_LOADING";
+export const RESET_ASTEROID = "RESET_ASTEROID";
